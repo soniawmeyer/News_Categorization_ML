@@ -14,3 +14,16 @@ data/bag_of_words_results.csv filter=lfs diff=lfs merge=lfs -text
 data/cleaned_AG.csv filter=lfs diff=lfs merge=lfs -text
 data/tf_idf_bing_data.csv filter=lfs diff=lfs merge=lfs -text
 data/tf_idf_training_data.csv filter=lfs diff=lfs merge=lfs -text
+data/bing_api_json/20210429_Business.json filter=lfs diff=lfs merge=lfs -text
+data/bing_api_json/20210429_Sports.json filter=lfs diff=lfs merge=lfs -text
+data/bing_api_json/20210321_World.json filter=lfs diff=lfs merge=lfs -text
+data/bing_api_json/20210321_world_2.json filter=lfs diff=lfs merge=lfs -text
+data/bing_api_json/20210410_Business.json filter=lfs diff=lfs merge=lfs -text
+data/bing_api_json/20210410_Sports.json filter=lfs diff=lfs merge=lfs -text
+data/bing_api_json/20210410_World.json filter=lfs diff=lfs merge=lfs -text
+data/bing_api_json/20210429_World.json filter=lfs diff=lfs merge=lfs -text
+data/bing_api_json/20210321_Business.json filter=lfs diff=lfs merge=lfs -text
+data/bing_api_json/20210321_Science.json filter=lfs diff=lfs merge=lfs -text
+data/bing_api_json/20210321_Sports.json filter=lfs diff=lfs merge=lfs -text
+data/bing_api_json/20210410_Science.json filter=lfs diff=lfs merge=lfs -text
+data/bing_api_json/20210429_Science.json filter=lfs diff=lfs merge=lfs -text
