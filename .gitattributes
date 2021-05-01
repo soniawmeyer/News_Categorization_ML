@@ -1,0 +1,16 @@
+data/cleaned_bing.csv filter=lfs diff=lfs merge=lfs -text
+data/tf_idf_results.csv filter=lfs diff=lfs merge=lfs -text
+data/bag_of_words_training_data.csv filter=lfs diff=lfs merge=lfs -text
+data/bing_api_json filter=lfs diff=lfs merge=lfs -text
+data/real_time_data_processed.csv filter=lfs diff=lfs merge=lfs -text
+data/test.csv filter=lfs diff=lfs merge=lfs -text
+data/word2vec_bing_results.csv filter=lfs diff=lfs merge=lfs -text
+data/bow_bing_results.csv filter=lfs diff=lfs merge=lfs -text
+data/tf_idf_bing_results.csv filter=lfs diff=lfs merge=lfs -text
+data/word2vec_results.csv filter=lfs diff=lfs merge=lfs -text
+data/train.csv filter=lfs diff=lfs merge=lfs -text
+data/bag_of_words_bing_data.csv filter=lfs diff=lfs merge=lfs -text
+data/bag_of_words_results.csv filter=lfs diff=lfs merge=lfs -text
+data/cleaned_AG.csv filter=lfs diff=lfs merge=lfs -text
+data/tf_idf_bing_data.csv filter=lfs diff=lfs merge=lfs -text
+data/tf_idf_training_data.csv filter=lfs diff=lfs merge=lfs -text
